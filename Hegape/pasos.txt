@@ -1,0 +1,8 @@
+1. Crear proyecto:
+	django-admin startproject Hegape
+
+2. Ir a la carpeta del proyecto:
+	cd Hegape
+
+3. Crear la App:
+	python manage.py startapp HegapeApp
